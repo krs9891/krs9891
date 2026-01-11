@@ -1,9 +1,10 @@
-# Hello — I'm Kris
+<h4 align="center"><samp>
+IT enthusiast. Builder of practical things.
+Minimal setups, maximum intent.<br><br>
 
-I’m an IT enthusiast who likes to build practical things and keep setups minimal.
+Python and AutoHotkey for daily work.
+Ansible and Docker for a small home server.
+Exploring ESP32 and embedded projects.
 
-- I tinker with Python and AutoHotkey.
-- I run a small home server configured with Ansible and running Docker containers.
-- Recently exploring ESP32 and embedded projects.
-
-Thanks for stopping by — I keep things simple and focused.
+Main tasks welcome. Side quests inevitable.
+</samp></h4>
